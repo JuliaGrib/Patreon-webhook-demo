@@ -1,0 +1,8 @@
+# Do not commit secrets
+.env
+.env.local
+wp-config.local.php
+
+# OS
+.DS_Store
+Thumbs.db
